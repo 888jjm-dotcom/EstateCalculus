@@ -1,0 +1,72 @@
+EstateCalculus is a native macOS and iPhone tool that helps South African estate practitioners draft, validate and export the official Master of the High Court forms required to wind up a deceased estate — the J294, J243, J192 and J155. This page is here for when you need a hand.
+
+## Getting in touch
+
+The fastest way to reach us is by email. We aim to reply to every message within **two working days**, and usually much sooner.
+
+**Email:** 888jjm@gmail.com
+
+When you write in, it helps if you can tell us:
+
+- Which version of EstateCalculus you are using (Settings → About)
+- Which device and operating system (e.g. *macOS 14.4* or *iPhone 15, iOS 17.3*)
+- A short description of what you were trying to do and what happened instead
+- A screenshot, if the issue is visual
+
+Please **do not** send us any personal information about a deceased person, an executor, an heir or any client. We do not need it to help you, and we would rather you didn't.
+
+## Frequently asked questions
+
+### Is EstateCalculus really free?
+
+Yes. There are no in-app purchases, no advertising and no subscription. We may introduce paid features in future, but the core forms — J294, J243, J192 and J155 — will remain free to generate and export.
+
+### Where is my data stored?
+
+In your own private iCloud database, on your devices and in your Apple account. EstateCalculus does not use third-party servers, analytics, advertising frameworks or tracking. When you share an estate with a colleague, sharing happens through Apple's CloudKit invitation flow between Apple IDs you control.
+
+### Can I use EstateCalculus outside South Africa?
+
+EstateCalculus is designed specifically for the South African Master of the High Court forms and South African intestate succession rules. It is not suitable for estates governed by foreign law, though many of our users handle estates of South Africans who lived abroad.
+
+### Does EstateCalculus lodge the forms for me?
+
+No. EstateCalculus drafts and exports the forms as PDFs. You remain responsible for reviewing, printing, signing and lodging the bundle at the appropriate Master's office.
+
+### Is EstateCalculus a substitute for legal advice?
+
+No. EstateCalculus is a drafting and document-generation tool. It does not give legal advice and does not replace the professional judgement of an attorney, advocate or qualified estate practitioner. The accuracy of any form generated depends entirely on the accuracy of the information you enter.
+
+### Can I share an estate with a colleague or co-executor?
+
+Yes. EstateCalculus supports iCloud sharing — you can invite a colleague by Apple ID and they can view or edit the estate from their own device.
+
+### I found a form that didn't populate correctly. What should I do?
+
+Email us with a description of which form, which field, and what you expected versus what you got. A redacted screenshot is ideal. We take form accuracy seriously and fix these quickly.
+
+### How do I export the bundle?
+
+Open the estate, go to the **Declaration** tab, and tap **Export Bundle**. The app will generate a single PDF containing the J294, J243, J192 and J155 forms in lodgement order, ready to print and sign.
+
+### Can I delete an estate?
+
+Yes. Right-click (or long-press) the estate in the sidebar and choose **Delete Estate**. Deletion is permanent and propagates to all devices and shared collaborators within a few seconds.
+
+### How do I request a new feature?
+
+Email us. We read every suggestion and keep a public-ish roadmap shaped by what practitioners actually ask for.
+
+## Privacy
+
+EstateCalculus is built around Apple's privacy model. Your estate data is yours, stored in your own iCloud account, and never transmitted to third-party services. We do not include analytics, tracking or advertising frameworks of any kind.
+
+A full privacy policy is available [here](PRIVACY_POLICY_URL).
+
+## Important
+
+EstateCalculus is a drafting and document-generation tool. It is not a substitute for legal advice and does not constitute legal practice as contemplated in the Legal Practice Act. You remain responsible for the accuracy of the information entered and for lodging the resulting forms with the Master of the High Court.
+
+---
+
+Last updated: May 2026
