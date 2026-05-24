@@ -1,0 +1,36 @@
+Last Updated: May 20, 2026
+John James Marshall (“we”, “our”, or “us”) respects your privacy and is committed to protecting the sensitive legal and financial data you input into the EstateCalculus mobile and desktop application (the “App”).
+This Privacy Policy explains how we handle, store, and protect your information.
+
+1. We Do NOT Collect Any Data
+EstateCalculus is designed with an “offline-first” and “privacy-by-design” architecture.
+	•	We do not collect, store, or have access to any of the personal, legal, or financial information you enter into the App.
+	•	We do not use analytics trackers to monitor your financial inputs.
+	•	We do not sell, rent, or share your data with third-party advertisers, marketers, or data brokers.
+
+2. How Your Data is Stored (iCloud & Local Storage)
+All data entered into the App—including names, ID numbers, children’s details, property values, bank account balances, and generated PDF/FDF documents—is stored locally on your device.
+If you have Apple’s iCloud enabled on your device, the App uses Apple’s CloudKit framework to securely synchronize your data across your personal iOS and macOS devices.
+	•	This data is stored in your private iCloud database.
+	•	We as the developers cannot access, read, or recover this database.
+	•	Your data’s security during cloud synchronization is governed by Apple’s Privacy Policy.
+
+3. Data Sharing and Collaboration
+The App allows you to generate PDF documents and export  .ecf  files.
+	•	When you choose to share a PDF or  .fdf  file with a third party (such as your attorney or spouse), you do so via Apple’s native sharing sheets (e.g., Mail, Messages, AirDrop).
+	•	We do not facilitate, monitor, or intercept this transmission. You are solely responsible for ensuring you share these sensitive documents with the correct, intended recipients.
+
+4. App Store and Crash Logs
+If the App crashes, Apple may collect standard, anonymised crash logs and share them with us via App Store Connect. This data contains no personally identifiable information and is used strictly to identify bugs and improve the App’s stability. You can opt out of sharing crash logs in your iOS/macOS system settings.
+
+5. Data Deletion
+Because your data is stored on your device and in your private iCloud account:
+	•	You can delete a specific Estate directly within the App at any time.
+	•	Deleting the App from your device will remove the local data.
+	•	To completely remove the synchronised data from the cloud, you can delete the App’s data from your device’s iCloud storage settings.
+
+6. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time to reflect changes in our practices or App Store requirements. We will notify you of any changes by updating the “Last Updated” date at the top of this policy.
+
+7. Contact Us
+If you have any questions or concerns about this Privacy Policy or how your data is handled, please contact us at: Email: 888jjm@gmail.com
